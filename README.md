@@ -1,6 +1,6 @@
 - Hi, I’m @axolotl-gits
 - I’m interested in Animals and Machine Learning.
-- I’m looking to collaborate on Machine Learning projects...
+- I’m looking to collaborate/contribute on open-source (Machine Learning) projects...
 <!-- Email: kushagra.email@pm.me-->
 - Pronouns: He/Him
 
